@@ -82,9 +82,7 @@ Seller revenue/volume performance, delivery reliability, review distribution, an
 
 ### Power BI Dashboard
 
-The Power BI `.pbix` file is hosted externally due to GitHub file size limitations.
-
-- [Download Power BI Dashboard](PowerBI/olist_ecommerce_sales_analysis)
+- [Open Power BI Dashboard](PowerBI/)
 
 ### Dashboard Screenshots
 
