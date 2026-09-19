@@ -72,20 +72,26 @@ Seller revenue/volume performance, delivery reliability, review distribution, an
 ## Project Files
 
 ### SQL Analysis
-- 01_Data_Validation.sql
-- 02_Executive_Sales_KPIs.sql
-- 03_Customer_Analysis.sql
-- 04_Product_Analysis.sql
-- 05_Seller_Analysis.sql
-- 06_Customer_Experience.sql
+
+- [Data Validation](sql/01_Data_Validation.sql)
+- [Executive Sales KPIs](sql/02_Executive_Sales_KPIs.sql)
+- [Customer Analysis](sql/03_Customer_Analysis.sql)
+- [Product Analysis](sql/04_Product_Analysis.sql)
+- [Seller Analysis](sql/05_Seller_Analysis.sql)
+- [Customer Experience](sql/06_Customer_Experience.sql)
 
 ### Power BI Dashboard
-- Olist_Sales_Analysis.pbix
+
+The Power BI `.pbix` file is hosted externally due to GitHub file size limitations.
+
+- [Download Power BI Dashboard](PowerBI/)
 
 ### Dashboard Screenshots
-- 01_Executive_Overview.png
-- 02_Customer_Product.png
-- 03_Seller_Customer_Experience.png
+
+- [Executive Sales Overview](Screenshots/01_Executive_Overview.png)
+- [Customer & Product Analysis](Screenshots/02_Customer_Product.png)
+- [Seller & Customer Experience](Screenshots/03_Seller_Customer_Experience.png)
 
 ### Documentation
-- Project_Notes.md
+
+- [Project Notes](Documentation/Project_Notes.md)
