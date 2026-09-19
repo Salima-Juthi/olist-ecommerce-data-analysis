@@ -88,7 +88,7 @@ Seller revenue/volume performance, delivery reliability, review distribution, an
 
 - [Executive Sales Overview](Screenshots/01_Executive_Overview.png)
 - [Customer & Product Analysis](Screenshots/02_Customer_Product.png)
-- [Seller & Customer Experience](- [Seller & Customer Experience](Screenshots/03_Seller_Customer%20Experience.png))
+- [Seller & Customer Experience](Screenshots/03_Seller_Customer_Experience.png)
 
 ### Documentation
 
